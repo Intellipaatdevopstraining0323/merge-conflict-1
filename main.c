@@ -3,10 +3,6 @@ pseudo code
 Initial Function()
 {
   //Sample Code
-}
-
-<<<<<<< HEAD
-<<<<<<< HEAD
 Initial Security()
 {
  //Sample Code
